@@ -3,14 +3,14 @@ layout: page
 title: Welcome!
 ---
 
-[![logoPicture](images/green_green_robotics_logo_v1.png)](www.greengreenrobotics.com)
+[![logoPicture](images/green_green_robotics_logo_v1.png)](https://www.greengreenrobotics.com)
 
 
 This website provides a gateway to the intructions and feedback form for the refill station prototype.
 
 The links to the video and instruction document are password protected for reasons of confidentiality. The password has been made available (written [A] on the refill station and [B] in the operation manual foreword). Please use this to access the links.
 
-For help or more information please feel free to contact us at: [www.greengreenrobotics.com](www.greengreenrobotics.com). Our direct contact details are also given on the first page of the operation manual.
+For help or more information please feel free to contact us at: [www.greengreenrobotics.com](https://www.greengreenrobotics.com). Our direct contact details are also given on the first page of the operation manual.
 
 Many thanks for trying out the refill station!
 
